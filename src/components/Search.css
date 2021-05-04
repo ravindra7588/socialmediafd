@@ -1,0 +1,47 @@
+.search{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.search input{
+    margin-top:20px;
+    width:300px;
+    height:40px;
+    font-size:20px;
+    padding-left:10px;
+}
+.borde{
+    border-style:solid;
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 20px;
+    border-color: aliceblue;
+    
+}
+.box{
+    
+    border-style:solid;
+    width: 30%;
+    height:50%;
+    margin: 40px 80PX;
+    padding: 20px;
+    border-radius: 20px;
+    justify-self:first baseline;
+
+    
+}
+.username{
+    font-size:40px;
+    font-display:inherit;
+    font-style:unset;
+}
+.name{
+    text-align: center;
+    font-size: 40px;
+}
+.box1{
+    border-style: solid;
+    border-radius: 20px;
+}
